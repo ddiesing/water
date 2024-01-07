@@ -1,5 +1,5 @@
 temperature,conductivity,error_down,error_up
-23,8e-07,2e-07,5e-07
+23.1,8e-07,2e-07,5e-07
 23.7,8e-07,6e-07,5e-07
 23.8,1.2e-06,2e-07,5e-07
 24.2,7e-07,2e-07,5e-07
